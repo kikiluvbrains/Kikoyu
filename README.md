@@ -36,6 +36,7 @@ To set up the Kikoyu application on your system, follow these steps:
 
 6. **Navigate to location of application**
    ``` Open "Kikoyu_application" by double-clicking on it```
+   
    ![image](https://github.com/kikiluvbrains/Kikoyu/assets/121206270/9abae367-1ec3-4272-8c15-65b81f401e94)
 
 ## License
