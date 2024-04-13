@@ -26,14 +26,14 @@ To set up the Kikoyu application on your system, follow these steps:
    cd Kikoyu
    ```
 4. **Install Dependencies**
-```
-bash pip install -r requirements.txt
-```
+   ```
+   bash pip install -r requirements.txt
+   ```
 
 5. **Build the Application with PyInstaller**
-```
-py -m PyInstaller --onedir Kikoyu_application.py```
-```
+   ```
+   py -m PyInstaller --onedir Kikoyu_application.py```
+   ```
 ## License
 
 MIT License. Free to use.
