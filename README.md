@@ -22,13 +22,13 @@ To set up the Kikoyu application on your system, follow these steps:
    git clone git@github.com:kikiluvbrains/Kikoyu.git
 
 2. **Navigate to the Project Directory**
-   ```cd Kikoyu```
+   ```bash cd Kikoyu```
    
 4. **Install Dependencies**
-  ```pip install -r requirements.txt```
+  ```bash pip install -r requirements.txt```
 
 5. **Build the Application with PyInstaller**
-  ```py -m PyInstaller --onedir Kikoyu_application.py```
+  ```bash py -m PyInstaller --onedir Kikoyu_application.py```
 
 ## License
 
