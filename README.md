@@ -31,7 +31,7 @@ To set up the Kikoyu application on your system, follow these steps:
 
 5. **Build the Application with PyInstaller**
    ```
-   py -m PyInstaller --onedir Kikoyu_application.py```
+   py -m PyInstaller --onedir Kikoyu_application.py
    ```
 
 6. **Navigate to location of application**
