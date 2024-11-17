@@ -1,7 +1,7 @@
 # Kikoyu Image File Reviewer
 The Kikoyu application is designed for processing image segmentation data from machine learning models. It offers a user-friendly interface for reviewing and validating image data, enhancing the accuracy and efficiency of machine learning workflows. This README provides detailed instructions on how to set up and build the application.
 
-![Screenshot from 2024-11-17 02-45-51](https://github.com/user-attachments/assets/686e6ee9-103f-4afb-a3af-6e58044c2a13)
+![Screenshot from 2024-11-17 02-47-43](https://github.com/user-attachments/assets/05aa7426-8654-4056-a4a7-e935442a9975)
 ![Screenshot from 2024-11-17 02-46-22](https://github.com/user-attachments/assets/7dd41268-859b-4ac6-aeb1-a6c1d5231bdd)
 ![Screenshot from 2024-11-17 02-46-34](https://github.com/user-attachments/assets/ec085f61-4c87-4bb8-9755-b3b1406b45e1)
 
